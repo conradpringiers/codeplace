@@ -51,3 +51,18 @@ nav a:hover{
   height: 1500px;
 }
 
+.boutonC
+{
+    padding: 10px;
+    background-color: #5CADD3;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    height: 25px;
+    width: 90px;
+}
+ 
+.boutonC:hover
+{
+    background-color:white;
+}
