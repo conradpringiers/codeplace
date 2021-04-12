@@ -6,6 +6,9 @@ html{
   font-family : "calibri", Times, serif;
 }
 
+html{
+  color : #FF00FF;
+}
 *{
     margin: 0px;
     padding: 0px;
