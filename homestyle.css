@@ -2,12 +2,9 @@ body {
   background-color: #383C3F;
 }
 
-html{
-  font-family : "calibri", Times, serif;
-}
 
-html{
-  color : #FF00FF;
+body {
+ font-family:"calibri", times, serif;
 }
 *{
     margin: 0px;
