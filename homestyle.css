@@ -111,4 +111,13 @@ a.button3:hover{
   margin:0.2em auto;
  }
 }
+/*imganim*/
 
+.cadre img {
+  position: absolute;
+  right: -50%;
+  transition: all .5s;
+}
+.cadre:hover img {
+  right: 0;
+}
