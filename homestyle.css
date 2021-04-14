@@ -111,3 +111,7 @@ a.button3:hover{
   margin:0.2em auto;
  }
 }
+
+filter: grayscale(100%);
+-webkit-filter: grayscale(100%);
+-moz-filter: grayscale(100%);
