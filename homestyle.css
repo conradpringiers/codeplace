@@ -129,3 +129,15 @@ img.zoomEffect:hover {
     transform: rotate(2deg) scale(1.10);
     opacity: 1;
 }
+
+/*------------- mise en page -------------*/
+
+p {
+  text-align: justify;
+}
+p span.gauche {
+  float: left;
+}
+p span.droite {
+  float: right;
+}
