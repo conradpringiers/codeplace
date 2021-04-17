@@ -61,9 +61,9 @@ nav a{
 }
 
 nav a:hover{
-    color: orange;
+    color: blue;
     border-bottom: 2px solid gold;
-  width : 50;
+  
 }
 
 .conteneur{
