@@ -53,7 +53,7 @@ nav ul::after{
 }
 
 nav a{
-    display: block;
+    display: list-item;
     text-decoration: none;
     color: white;
     border-bottom: 2px solid transparent;
@@ -61,8 +61,12 @@ nav a{
 }
 
 nav a:hover{
-    color: blue;
+    color: white;
     border-bottom: 2px solid gold;
+transition: all 0.2s ease-out;
+width: 100% ;
+}
+
   
 }
 
