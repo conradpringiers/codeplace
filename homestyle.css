@@ -77,6 +77,36 @@ width: 100% ;
 
 
 
+/*button standar*/
+
+
+.button {
+  background-color: #4CAF50; 
+border:none ;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+   border-radius: 100px;
+  transition: all 0.2s ease-out;
+  width: 50%
+
+}
+
+.button:hover {
+ border-left : 5pt solid #4CAF50;
+ border-right : 5pt solid #4CAF50;
+	border-radius: 5px;
+  background-color: #262626; 
+  color: white;
+  text-align: middle;
+  text-decoration: none;
+  display: inline-block;
+  width: 80% ;
+}
+
 
 /*imganim*/
 
