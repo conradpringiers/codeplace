@@ -147,7 +147,7 @@ opacity:0.7;
 
 }
 
-img {
+imgcours {
   width:90%;
   align:center;
   display: block;
@@ -157,7 +157,7 @@ img {
 
 }
 
-img:hover {
+imgcours:hover {
   width:100%
 
 }
