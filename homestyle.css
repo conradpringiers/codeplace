@@ -147,20 +147,9 @@ opacity:0.7;
 
 }
 
-imgcours {
-  width:90%;
-  align:center;
-  display: block;
-    margin-left: auto;
-    margin-right: auto;
-    transition: all 0.2s ease-out;
 
-}
 
-imgcours:hover {
-  width:100%
 
-}
 
 
 
