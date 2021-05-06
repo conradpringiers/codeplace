@@ -125,7 +125,6 @@ border-color: #a0a0a0;
     opacity: 1;
 }
 /*imgcours*/
-/*imgcours*/
 figure {
     border: thin #c0c0c0 solid;
         border-width: 1px;
@@ -133,21 +132,20 @@ figure {
     flex-flow: column;
     padding: 5px;
 width:50%;
+height:auto;
 transition: all 0.2s ease-out;
 
 }
 
 figure:hover {
       border: thin  #717171 solid;
-      border-width: 1px;
+      border-width: 3px;
     display: flex;
     flex-flow: column;
-    padding: 5px;
+width:49%;
 opacity:0.7;
 
 }
-
-
 
 
 
@@ -161,6 +159,7 @@ figcaption {
     text-align: center;
 
 }
+
 
 /*------------- mise en page -------------*/
 
