@@ -160,6 +160,23 @@ figcaption {
 
 }
 
+.pg{
+    width:50%;
+    background: blue;
+    border: solid;
+    border-color:rgb(43, 43, 43);
+    transition: all 0.2s ease-out;
+
+}
+
+.pg:hover{
+    border: none;
+    border-color:rgb(43, 43, 43);
+ 
+}
+
+
+
 .cadretext{ border: 1px solid black; padding: 5px; }
 /*------------- mise en page -------------*/
 
