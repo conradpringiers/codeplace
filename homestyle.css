@@ -69,9 +69,8 @@ width: 100% ;
 
 nav a:active{
     color: white;
-    border-bottom: 2px solid gold;
+    border-bottom: 1px solid gold;
 transition: all 0.2s ease-out;
-width: 70% ;
 }
 
   
